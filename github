@@ -1,0 +1,4 @@
+my_income = 200
+>>> tax_rate = 0.2
+>>> my_taxes = my_income*tax_rate
+>>> my_taxes
